@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 55d9b034191014071bc7b40e67636418
-timeCreated: 1464903506
-licenseType: Pro
+timeCreated: 1465418055
+licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
@@ -21,6 +21,21 @@ ModelImporter:
     100026: transform5
     100028: transform6
     100030: transform7
+    100032: pCube11
+    100034: pCube12
+    100036: pCube13
+    100038: pCube14
+    100040: pCube15
+    100042: pCube16
+    100044: pCube17
+    100046: pCube18
+    100048: transform10
+    100050: transform11
+    100052: transform12
+    100054: transform13
+    100056: transform14
+    100058: transform8
+    100060: transform9
     400000: //RootNode
     400002: pCube10
     400004: pCube5
@@ -37,9 +52,27 @@ ModelImporter:
     400026: transform5
     400028: transform6
     400030: transform7
+    400032: pCube11
+    400034: pCube12
+    400036: pCube13
+    400038: pCube14
+    400040: pCube15
+    400042: pCube16
+    400044: pCube17
+    400046: pCube18
+    400048: transform10
+    400050: transform11
+    400052: transform12
+    400054: transform13
+    400056: transform14
+    400058: transform8
+    400060: transform9
     2300000: pCylinder2
+    2300002: pCube18
     3300000: pCylinder2
+    3300002: pCube18
     4300000: pCylinder2
+    4300002: pCube18
     9500000: //RootNode
   materials:
     importMaterials: 1
